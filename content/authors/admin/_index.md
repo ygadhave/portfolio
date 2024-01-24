@@ -31,7 +31,7 @@ education:
   courses:
     - course: Bachelors in Computer Science
       institution: Arizona State University
-      year: 2023
+      year: 2025
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -112,8 +112,6 @@ email: ''
 highlight_name: true
 ---
 
-Yashwant Gadhave is an undergraduate teaching assistant at Arizona State University. He has experience and interst in working on data wranging techniques using neuro-symbolic approaches. Yashwant is primarily advised by Dr. Millman with his research on digital designing circuit. He will get his bachelor’s degree from Arizona State University (ASU) in Computer Science by 2025.
-
-Outside of work, Yashwant enjoys playing chess and travelling places.
+Yashwant Gadhave is an undergraduate teaching assistant at Arizona State University. He has experience and interst in working on data wranging techniques using neuro-symbolic approaches. Yashwant is primarily advised by Dr. Millman with his research on digital designing circuit. He will get his bachelor’s degree from Arizona State University - Tempe, in Computer Science by 2025.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
