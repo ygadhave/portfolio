@@ -17,7 +17,8 @@ main:
     url: '#talks'
     weight: 40
   - name: CV
-    url: '#featured'
+    # url: '#featured'
+    url: uploads/resume.pdf
     weight: 50
   - name: Contact
     url: '#contact'
