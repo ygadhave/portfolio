@@ -48,6 +48,11 @@ skills:
         percent: 97
         icon: c
         icon_pack: fas
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: database
+        icon_pack: fas
       - name: Java
         description: ''
         percent: 85
