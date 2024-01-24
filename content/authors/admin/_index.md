@@ -24,7 +24,7 @@ bio: My research interests include cloud computing, data analysis,and digital de
 interests:
   - LeetCode
   - Artificial Intelligence
-  - Information Retrieval
+  - Debugging
 
 # Education to show in About widget
 education:
