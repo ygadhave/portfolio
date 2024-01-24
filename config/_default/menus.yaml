@@ -23,3 +23,8 @@ main:
     # url: '#featured'
     url: uploads/resume.pdf
     weight: 60
+  - name: Sk
+    # url: '#featured'
+    url: '#featured'
+    weight: 70
+
