@@ -58,7 +58,6 @@ sections:
         - name: Debugging
           icon: laptop-code
           icon_pack: fas
-      columns: '1'
 
   - block: experience
     id: experience
