@@ -40,36 +40,42 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 20
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C/C++
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 95
+        icon: c
         icon_pack: fas
-      - name: SQL
+      - name: Java
         description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+        percent: 75
+        icon: java
+        icon_pack: fab
+      - name: ReactJS
+        description: ''
+        percent: 50
+        icon: react
+        icon_pack: fab
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Travel
         description: ''
-        percent: 60
+        percent: 75
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
+        description: ''
+        percent: 90
+        icon: dog
+        icon_pack: fas
+      - name: Chess
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
         icon: camera-retro
         icon_pack: fas
 
