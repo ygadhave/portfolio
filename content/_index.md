@@ -37,7 +37,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Udergraduate Teaching Assistant
+        - title: Udergraduate Teaching Assistant - Digital Design(CSE120) 
           company: ARIZONA STATE UNIVERSITY
           company_url: 'https://www.asu.edu/'
           company_logo: asu
@@ -47,37 +47,46 @@ sections:
           description: |2-
               Responsibilities include:
     
-              * Problem Solving
-              * Mentoring
-              * Tutoring
+              * Assisting students in circuit and microprocessor designs during the lectures and through ED discuscussions.
+              * Collaborating with Professor Steven Millman to address design challenges.
+              * Conducting weekly review sessions along with professor throughout the semester.
+              * Organizing Final and Capstone specific review sessions towards the end of the semester to provide additional support and resolve queries related to the course material.
+              * Fostering a supportive learning environment for mastering digital design concepts.
 
-        - title: Udergraduate Teaching Assistant
+        - title: Udergraduate Teaching Assistant - Software Engineering(CSE360)
           company: ARIZONA STATE UNIVERSITY
           company_url: 'https://www.asu.edu/'
           company_logo: asu
           location: Arizona
-          date_start: '2023-01-10'
+          date_start: '2024-01-08'
           date_end: ''
           description: |2-
               Responsibilities include:
     
-              * Problem Solving
-              * Mentoring
-              * Tutoring
+              * Conducting office hours to assist students with coding challenges in group projects.
+              * Collaborating with the professor to develop tutorials, pop quizzes, and assignment rubrics.
+              * Providing one-on-one guidance to students navigating software engineering concepts.
+              * Fostering a positive and collaborative learning environment.
+              * Contributing to the overall structure and quality of the course content.
+              * Offering support beyond scheduled class times to ensure comprehensive assistance.
+              * Actively participating in the development of effective teaching materials.
+              * Dedicated to helping students succeed in understanding software engineering principles.
     
-        - title: Udergraduate Teaching Assistant
+        - title: Udergraduate Teaching Assistant - Cyber Security(CSE365)
           company: ARIZONA STATE UNIVERSITY
           company_url: 'https://www.asu.edu/'
           company_logo: asu
           location: Arizona
-          date_start: '2023-01-10'
+          date_start: '2024-01-08'
           date_end: ''
           description: |2-
               Responsibilities include:
     
-              * Problem Solving
-              * Mentoring
-              * Tutoring
+              * Leading in-person recitations to address doubts on Python scripts and cybersecurity challenges.
+              * Providing continuous support to students via Discord throughout the day.
+              * Ensuring accessibility and assistance beyond scheduled class times.
+              * Facilitating a dynamic and engaging learning atmosphere to encourage active participation.
+              * Contributing to the development of effective teaching materials for cybersecurity principles.
     design:
       columns: '2'
 
