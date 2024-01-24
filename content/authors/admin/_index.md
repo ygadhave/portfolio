@@ -40,22 +40,22 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 20
+        percent: 30
         icon: python
         icon_pack: fab
       - name: C/C++
         description: ''
-        percent: 95
+        percent: 97
         icon: c
         icon_pack: fas
       - name: Java
         description: ''
-        percent: 75
+        percent: 85
         icon: java
         icon_pack: fab
       - name: ReactJS
         description: ''
-        percent: 50
+        percent: 60
         icon: react
         icon_pack: fab
 
@@ -65,18 +65,23 @@ skills:
     items:
       - name: Travel
         description: ''
-        percent: 75
+        percent: 60
         icon: person-hiking
-        icon_pack: fas
-      - name: Dogs
-        description: ''
-        percent: 90
-        icon: dog
         icon_pack: fas
       - name: Chess
         description: ''
         percent: 100
-        icon: camera-retro
+        icon: chess
+        icon_pack: fas
+      - name: Cooking
+        description: ''
+        percent: 90
+        icon: pan-food
+        icon_pack: far
+      - name: Dogs
+        description: ''
+        percent: 95
+        icon: dog
         icon_pack: fas
 
 # Social/Academic Networking
