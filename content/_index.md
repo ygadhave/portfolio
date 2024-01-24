@@ -45,7 +45,7 @@ sections:
       username: admin
     
   - block: skills
-    id: skill
+    id: skills
     content:
       title: Skills
       text: ''
