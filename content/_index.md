@@ -17,16 +17,12 @@ sections:
     id: skills
     content:
       title: Skills
-      items:
-        - name: React JS
-          icon: react
-          icon_pack: fab
-        - name: Java
-          icon: java
-          icon_pack: fab
-        - name: Debugging
-          icon: laptop-code
-          icon_pack: fas
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
+
 
   - block: experience
     id: experience
