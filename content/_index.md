@@ -244,23 +244,36 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-      # Contact (add or remove contact options as necessary)
-      email: ygadhave@asu.edu
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/ygadhave018'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          captcha: true
+      
+      content:
+        # Automatically link email and phone or display as text?
+        autolink: true
+      
+        # Email form provider
+        form:
+          provider: netlify
+          formspree:
+            id:
+          netlify:
+            # Enable CAPTCHA challenge to reduce spam?
+            captcha: true
+      
+        # Contact details (edit or remove options as required)
+        email: yashwantng2003@gmail.com
+        phone: 
+        address:
+          street: 
+          city: 
+          region: 
+          postcode: 
+          country: 
+          country_code: 
+        contact_links:
+          - icon: twitter
+            icon_pack: fab
+            name: DM Me
+            link: 'https://twitter.com/ygadhave018'
+
     design:
       columns: '2'
 ---
