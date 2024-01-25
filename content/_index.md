@@ -252,10 +252,6 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/ygadhave018'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://asu.zoom.us/j/9875559133'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
