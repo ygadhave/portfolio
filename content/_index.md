@@ -114,11 +114,11 @@ sections:
           url: ''
         - certificate_url: https://coursera.org/share/39e3b042b5f297231f07451fd8a8b440
           date_end: ''
-          date_start: '2023-08-25'
+          date_start: '2024-01-24'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Introduction to Structured Query Language (SQL)
+          title: Crash Course on Python
           url: ''
 
     
