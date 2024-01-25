@@ -112,7 +112,7 @@ sections:
           organization_url: https://www.coursera.org
           title: Introduction to Structured Query Language (SQL)
           url: ''
-        - certificate_url: https://coursera.org/share/39e3b042b5f297231f07451fd8a8b440
+        - certificate_url: https://coursera.org/share/3f290f8dc110aae7c60ea7d8e5bbd04e
           date_end: ''
           date_start: '2024-01-24'
           description: ''
