@@ -63,14 +63,18 @@ locale:
 
 features:
   syntax_highlighter:
+    enable: true
     theme_light: github-light
     theme_dark: dracula
+    extra_languages:
+        - r
+        - latex
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ygadhave/portfolio'
     content_dir: content
     branch: main
   avatar:
