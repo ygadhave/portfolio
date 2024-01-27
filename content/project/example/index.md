@@ -17,8 +17,8 @@ links:
     icon_pack: fab
     url: https://github.com/anirudhkhatry/Video-Based-Depression-Analysis-AVEC2017
 url_code: ''
-url_pdf: 'https://drive.google.com/file/d/1A6iX0CQnrUGJJwh-grfekfkcJoSEndE0/view?usp=sharing'
-url_slides: 'https://docs.google.com/presentation/d/1q-pEVjJl_CZeD1NbchqWdoAipQJg3aW0oeb435HttAg/edit?usp=sharing'
+url_pdf: 'https://docs.google.com/document/d/1Dnyfj-tW8Ptfb61cjyP4YbcG24_P2k56/edit?usp=share_link&ouid=112795460228365388803&rtpof=true&sd=true'
+url_slides: 'https://docs.google.com/presentation/d/1brvXXJveGK-LzOJ7gZD7JxVKvnjpO4gz/edit?usp=share_link&ouid=112795460228365388803&rtpof=true&sd=true'
 url_video: ''
 
 # Slides (optional).
