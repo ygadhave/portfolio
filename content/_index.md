@@ -241,7 +241,7 @@ sections:
   #    columns: '2'
 
 
- - block: contact
+  - block: contact
     id: contact
     content:
       title: Contact
