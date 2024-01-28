@@ -1,12 +1,12 @@
 ---
 title: Brick Buster - A Modern Twist to Classic Brick Breaker Game
-summary: Sophomore Year Epics Project
+summary: Sophomore Year Personal Project 'Game_Link'
 tags:
-  - Deep Learning
+  - Game Development
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://editor.p5js.org/ygadhave/full/1qujD2woA'
+Game_Link: 'https://editor.p5js.org/ygadhave/full/1qujD2woA'
 
 image:
   caption: Improving mental health through mobile games
