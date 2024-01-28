@@ -251,19 +251,26 @@ sections:
       # Contact (add or remove contact options as necessary)
       content:
       
-       # Automatically link email and phone or display as text?
-            autolink: true
-            # Email form provider
-            form:
-              provider: netlify
-              formspree:
-                id:
-              netlify:
-                # Enable CAPTCHA challenge to reduce spam?
-                captcha: true
-
+      # Automatically link email and phone or display as text?
+      autolink: true
+      # Email form provider
+      form:
+      provider: netlify
+      formspree:
+      id:
+      netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: true
 
       email: yashwantng2003@gmail.com
+      phone: 
+      address:
+      street: 
+      city: 
+      region: 
+      postcode: 
+      country: 
+      country_code: 
       contact_links:
         - icon: twitter
           icon_pack: fab
