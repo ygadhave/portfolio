@@ -16,10 +16,10 @@ links:
   - icon: github
     icon_pack: fab
     url: https://github.com/ygadhave/BrickBreakerClone
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+#url_code: ''
+#url_pdf: ''
+#url_slides: ''
+#url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
