@@ -243,13 +243,13 @@ sections:
 
   - block: contact
     id: contact
-    
+    content:
       title: Contact
       subtitle:
       # text: |-
       # Use the following information to connect with me, if you have any questions about my projects or want to network.
       # Contact (add or remove contact options as necessary)
-      content:
+      
       
       # Automatically link email and phone or display as text?
       autolink: true
