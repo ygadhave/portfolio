@@ -1,12 +1,12 @@
 ---
-title: Mental Health Mobile Game
-summary: Sophomore Year Epics Project
+title: Brick Buster: A Modern Twist to Classic Brick Breaker Game
+summary: Play the game of breakbreaker and have an expericece of nostaligia using the `game_link`.
 tags:
-  - Deep Learning
+  - Game Development
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+game_link: 'https://editor.p5js.org/ygadhave/full/1qujD2woA'
 
 image:
   caption: Improving mental health through mobile games
