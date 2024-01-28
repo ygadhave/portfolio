@@ -1,12 +1,12 @@
 ---
 title: Brick Buster: A Modern Twist to Classic Brick Breaker Game
-summary: Play the game of breakbreaker and have an expericece of nostaligia using the `game_link`.
+summary: Play the game of breakbreaker and have an expericece of nostaligia using.
 tags:
   - Game Development
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-game_link: 'https://editor.p5js.org/ygadhave/full/1qujD2woA'
+
 
 image:
   caption: Improving mental health through mobile games
