@@ -247,8 +247,6 @@ sections:
       title: Contact
       subtitle:
       
-      content:
-      
         # Contact details (edit or remove options as required)
         email: yashwantng2003@gmail.com
         phone: 
