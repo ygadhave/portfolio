@@ -173,6 +173,8 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: Game Development
+          tag: Game Development
         - name: Other
           tag: Demo
     design:
