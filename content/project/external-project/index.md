@@ -1,6 +1,6 @@
 ---
 title: Brick Buster - A Modern Twist to Classic Brick Breaker Game
-summary: Sophomore Year Personal Project 'Game_Link'
+summary: Sophomore Year Personal Project `Game_Link`
 tags:
   - Game Development
 date: '2016-04-27T00:00:00Z'
