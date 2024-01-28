@@ -117,6 +117,6 @@ email: ''
 highlight_name: true
 ---
 
-Yashwant Gadhave is an undergraduate teaching assistant at Arizona State University. He has experience and interst in working on data wranging techniques using neuro-symbolic approaches. Yashwant is primarily advised by Dr. Millman with his research on digital designing circuit. He will get his bachelor’s degree from Arizona State University - Tempe, in Computer Science by 2025.
+Yashwant Gadhave is an undergraduate teaching assistant at Arizona State University, currently assisting three professors at ASU with their course work and helping students. He has project and research experience in full stack development and interst in working on data analysis. Yashwant is primarily advised and mentored by Dr. Jaejong Baek, Dr. Steven Millman and Dr. Lynn Robert Carter with his research and interest in their respective courses. He will be graduation and getting his bachelor’s degree from Arizona State University - Tempe, in Computer Science by 2025.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
