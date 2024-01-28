@@ -6,7 +6,7 @@ tags:
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-Game_Link: 'https://editor.p5js.org/ygadhave/full/1qujD2woA'
+Game_Link: https://editor.p5js.org/ygadhave/full/1qujD2woA
 
 image:
   caption: Game development using javascript and CSS and other programming
