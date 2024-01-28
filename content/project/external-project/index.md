@@ -16,7 +16,7 @@ links:
   - icon: github
     icon_pack: fab
     url: https://github.com/ygadhave/BrickBreakerClone
-url_game: 'https://editor.p5js.org/ygadhave/full/1qujD2woA'
+url_code: 'https://editor.p5js.org/ygadhave/full/1qujD2woA'
 url_pdf: 'https://docs.google.com/document/d/1_N9VlVlaJ1lU_WMYALGjvmN_hZl10Vuu9FtMiq_Pzv0/edit?usp=sharing'
 url_slides: 'https://docs.google.com/presentation/d/19GDelYh5sou8lPkJDdZQUT0lu3vphVNO9lTduQvPdNA/edit?usp=sharing'
 url_video: ''
