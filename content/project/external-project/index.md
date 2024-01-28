@@ -16,7 +16,7 @@ links:
   - icon: github
     icon_pack: fab
     url: https://github.com/ygadhave/BrickBreakerClone
-  - icon: joystick
+  - icon: gamepad
     icon_pack: fas
     url: https://editor.p5js.org/ygadhave/full/1qujD2woA
     
