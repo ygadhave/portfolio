@@ -17,8 +17,8 @@ links:
     icon_pack: fab
     url: https://github.com/ygadhave/BrickBreakerClone
 url_code: ''
-url_pdf: 'https://docs.google.com/document/d/1Dnyfj-tW8Ptfb61cjyP4YbcG24_P2k56/edit?usp=share_link&ouid=112795460228365388803&rtpof=true&sd=true'
-url_slides: 'https://docs.google.com/presentation/d/1brvXXJveGK-LzOJ7gZD7JxVKvnjpO4gz/edit?usp=share_link&ouid=112795460228365388803&rtpof=true&sd=true'
+url_pdf: 'https://docs.google.com/document/d/1_N9VlVlaJ1lU_WMYALGjvmN_hZl10Vuu9FtMiq_Pzv0/edit?usp=sharing'
+url_slides: 'https://docs.google.com/presentation/d/19GDelYh5sou8lPkJDdZQUT0lu3vphVNO9lTduQvPdNA/edit?usp=sharing'
 url_video: ''
 
 # Slides (optional).
