@@ -121,7 +121,6 @@ sections:
           title: Crash Course on Python
           url: ''
 
-    
     design:
       columns: '2'
 
@@ -259,13 +258,12 @@ sections:
       autolink: true
       # Email form provider
       form:
-        provider: netlify
+        provider: formspree
         formspree:
-          id:
+          id: test
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
-
 
     design:
       columns: '2'
