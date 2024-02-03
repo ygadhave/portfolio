@@ -240,20 +240,20 @@ sections:
   #    columns: '2'
 
 
-  #- block: contact
-  #  id: contact
-  #  content:
-  #    title: Contact
-  #    subtitle:
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
   #    # text: |-
   #    # Use the following information to connect with me, if you have any questions about my projects or want to network.
   #    # Contact (add or remove contact options as necessary)
-  #    email: yashwantng2003@gmail.com
-  #    contact_links:
-  #      - icon: twitter
-  #        icon_pack: fab
-  #        name: DM Me
-  #        link: 'https://twitter.com/ygadhave018'
+      email: yashwantng2003@gmail.com
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/ygadhave018'
   #    # Automatically link email and phone or display as text?
   #    autolink: true
   #    # Email form provider
@@ -265,6 +265,6 @@ sections:
   #    # Enable CAPTCHA challenge to reduce spam?
   #    captcha: true
   #
-  #  design:
-  #    columns: '2'
+    design:
+      columns: '2'
 ---
