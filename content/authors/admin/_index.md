@@ -117,6 +117,6 @@ email: ''
 highlight_name: true
 ---
 
-Yashwant Gadhave is an undergraduate teaching assistant at Arizona State University, currently assisting three professors at ASU with their course work and helping students. He has project and research experience in full stack development and interest in working on data analysis. Yashwant is primarily advised and mentored by Dr. Jaejong Baek, Dr. Steven Millman and Dr. Lynn Robert Carter with his research and interest in their respective courses. He will be graduate and get his bachelor’s degree in Computer Science - from Arizona State University(Tempe), by 2025.
+Yashwant Gadhave is an undergraduate teaching assistant at Arizona State University, where he supports three distinguished professors in their respective course management and student mentorship. With a strong foundation in full stack development and a keen interest in data analysis, he brings valuable project and research experience to his academic pursuits. Guided by Dr. Jaejong Baek, Dr. Steven Millman, and Dr. Lynn Robert Carter, he is committed to advancing his understanding of computer science and contributing to innovative research initiatives. Currently pursuing his bachelor's degree in Computer Science at Arizona State University with an expected graduation in 2025, he aspires to leverage his skills and knowledge to make meaningful contributions to the field of technology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
