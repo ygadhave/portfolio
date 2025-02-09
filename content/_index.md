@@ -32,7 +32,7 @@ sections:
        - title: Software Engineering Intern 
           company: Tech Diversified
           company_url: 'https://techdiversified.com'
-          company_logo: asu
+          #company_logo: asu
           location: Arizona
           date_start: '2024-08-21'
           date_end: ''
