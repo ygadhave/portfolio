@@ -37,6 +37,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Software Engineering Intern
+          company: Tech Diversified
+          company_url: 'https://techdiversified.com'
+          # company_logo: asu
+          location: Arizona
+          date_start: '2024-08-21'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+    
+              * Developed a scalable authentication system using Material UI and JWT, improving user session security.
+              * Designed and optimized state management for dynamic UI views, enhancing performance on mobile & desktop.
+              * Refactored React Native components to increase reusability by 25% and streamline API integrations and streamline API
+integrations.
+              * Utilized MySQL, Elasticsearch and Docker to manage backend data efficiently.
+    
         - title: Udergraduate Teaching Assistant - Digital Design(CSE120) 
           company: ARIZONA STATE UNIVERSITY
           company_url: 'https://www.asu.edu/'
