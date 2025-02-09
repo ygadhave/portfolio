@@ -52,6 +52,22 @@ sections:
               * Conducting weekly review sessions along with professor throughout the semester.
               * Organizing Final and Capstone specific review sessions towards the end of the semester to provide additional support and resolve queries related to the course material.
               * Fostering a supportive learning environment for mastering digital design concepts.
+    
+        - title: Udergraduate Teaching Assistant - Digital Design(CSE120) 
+          company: ARIZONA STATE UNIVERSITY
+          company_url: 'https://www.asu.edu/'
+          company_logo: asu
+          location: Arizona
+          date_start: '2023-01-10'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+    
+              * Assisting students in circuit and microprocessor designs during the lectures and through ED discuscussions.
+              * Collaborating with Professor Steven Millman to address design challenges.
+              * Conducting weekly review sessions along with professor throughout the semester.
+              * Organizing Final and Capstone specific review sessions towards the end of the semester to provide additional support and resolve queries related to the course material.
+              * Fostering a supportive learning environment for mastering digital design concepts.
 
         - title: Udergraduate Teaching Assistant - Software Engineering(CSE360)
           company: ARIZONA STATE UNIVERSITY
