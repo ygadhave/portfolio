@@ -1,21 +1,24 @@
 ---
+# Leave the homepage title empty to use the site title
 title: ''
 date: 2022-10-24
 type: landing
 
 sections:
-    
+
   - block: about.biography
     id: about
     content:
       title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    
+
   - block: skills
     id: skills
     content:
       title: Skills
       text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
       columns: '1'
@@ -25,32 +28,22 @@ sections:
     id: experience
     content:
       title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-
-    items:
-
-       - title: Software Engineering Intern 
-          company: Tech Diversified
-          company_url: 'https://techdiversified.com'
-          #company_logo: asu
-          location: Arizona
-          date_start: '2024-08-21'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-    
-              * Developed a scalable authentication system using Material UI and JWT, improving user session security.
-              • Designed and optimized state management for dynamic UI views, enhancing performance on mobile & desktop.
-              • Refactored React Native components to increase reusability by 25% and streamline API integrations and streamline API integrations.
-              • Utilized MySQL, Elasticsearch and Docker to manage backend data efficiently.
-
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
         - title: Udergraduate Teaching Assistant - Digital Design(CSE120) 
           company: ARIZONA STATE UNIVERSITY
           company_url: 'https://www.asu.edu/'
           company_logo: asu
           location: Arizona
           date_start: '2023-01-10'
-          date_end: '2024-12-10'
+          date_end: ''
           description: |2-
               Responsibilities include:
     
@@ -66,7 +59,7 @@ sections:
           company_logo: asu
           location: Arizona
           date_start: '2024-01-08'
-          date_end: '2024-12-10'
+          date_end: ''
           description: |2-
               Responsibilities include:
     
@@ -78,14 +71,14 @@ sections:
               * Offering support beyond scheduled class times to ensure comprehensive assistance.
               * Actively participating in the development of effective teaching materials.
               * Dedicated to helping students succeed in understanding software engineering principles.
-    
+
         - title: Udergraduate Teaching Assistant - Cyber Security(CSE365)
           company: ARIZONA STATE UNIVERSITY
           company_url: 'https://www.asu.edu/'
           company_logo: asu
           location: Arizona
           date_start: '2024-01-08'
-          date_end: '2024-12-10'
+          date_end: ''
           description: |2-
               Responsibilities include:
     
