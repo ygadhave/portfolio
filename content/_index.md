@@ -25,8 +25,11 @@ sections:
     id: experience
     content:
       title: Experience
+      date_format: Jan 2006
 
-      title: Software Engineering Intern 
+    items:
+
+       - title: Software Engineering Intern 
           company: Tech Diversified
           company_url: 'https://techdiversified.com'
           company_logo: asu
@@ -38,11 +41,9 @@ sections:
     
               * Developed a scalable authentication system using Material UI and JWT, improving user session security.
               • Designed and optimized state management for dynamic UI views, enhancing performance on mobile & desktop.
-              • Refactored React Native components to increase reusability by 25% and streamline API integrations and streamline API                    integrations.
+              • Refactored React Native components to increase reusability by 25% and streamline API integrations and streamline API integrations.
               • Utilized MySQL, Elasticsearch and Docker to manage backend data efficiently.
 
-    
-      items:
         - title: Udergraduate Teaching Assistant - Digital Design(CSE120) 
           company: ARIZONA STATE UNIVERSITY
           company_url: 'https://www.asu.edu/'
