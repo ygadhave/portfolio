@@ -40,18 +40,19 @@ sections:
         - title: Software Engineering Intern
           company: Tech Diversified
           company_url: 'https://techdiversified.com/'
-          company_logo: asu
+          # company_logo: asu
           location: Arizona
           date_start: '2024-12-21'
           date_end: ''
           description: |2-
               Responsibilities include:
     
-              * Assisting students in circuit and microprocessor designs during the lectures and through ED discuscussions.
-              * Collaborating with Professor Steven Millman to address design challenges.
-              * Conducting weekly review sessions along with professor throughout the semester.
-              * Organizing Final and Capstone specific review sessions towards the end of the semester to provide additional support and resolve queries related to the course material.
-              * Fostering a supportive learning environment for mastering digital design concepts.
+              * ADeveloped a scalable authentication system using Material UI and JWT, improving user session security.
+              * Designed and optimized state management for dynamic UI views, enhancing performance on mobile & desktop.
+              * Refactored React Native components to increase reusability by 25% and streamline API integrations and streamline API
+integrations.
+              * Utilized MySQL, Elasticsearch and Docker to manage backend data efficiently.
+  
     
         - title: Udergraduate Teaching Assistant - Digital Design(CSE120) 
           company: ARIZONA STATE UNIVERSITY
