@@ -40,27 +40,27 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 30
+        percent: 95
         icon: python
         icon_pack: fab
       - name: C/C++
         description: ''
-        percent: 97
+        percent: 90
         icon: c
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 95
         icon: database
         icon_pack: fas
       - name: Java
         description: ''
-        percent: 85
+        percent: 98
         icon: java
         icon_pack: fab
       - name: ReactJS
         description: ''
-        percent: 60
+        percent: 90
         icon: react
         icon_pack: fab
 
