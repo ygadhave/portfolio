@@ -45,7 +45,7 @@ skills:
         icon_pack: fab
       - name: C/C++
         description: ''
-        percent: 90
+        percent: 98
         icon: c
         icon_pack: fas
       - name: SQL
@@ -60,9 +60,62 @@ skills:
         icon_pack: fab
       - name: ReactJS
         description: ''
-        percent: 90
+        percent: 94
         icon: react
         icon_pack: fab
+      - name: JavaScript (Node.js)
+        description: ''
+        percent: 90
+        icon: js
+        icon_pack: fab
+      
+      - name: Docker
+        description: ''
+        percent: 85
+        icon: docker
+        icon_pack: fab
+      
+      - name: AWS (EC2, S3, Lambda)
+        description: ''
+        percent: 80
+        icon: cloud
+        icon_pack: fas
+      
+      - name: Apache Spark
+        description: ''
+        percent: 80
+        icon: fire
+        icon_pack: fas
+      
+      - name: Git & GitHub
+        description: ''
+        percent: 95
+        icon: git-alt
+        icon_pack: fab
+      
+      - name: Elasticsearch
+        description: ''
+        percent: 75
+        icon: search
+        icon_pack: fas
+      
+      - name: MySQL/PostgreSQL
+        description: ''
+        percent: 90
+        icon: database
+        icon_pack: fas
+      
+      - name: REST APIs & JWT
+        description: ''
+        percent: 92
+        icon: link
+        icon_pack: fas
+      
+      - name: Bash / Linux
+        description: ''
+        percent: 80
+        icon: terminal
+        icon_pack: fas
 
   - name: Hobbies
     color: '#eeac02'
