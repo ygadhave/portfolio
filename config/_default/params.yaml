@@ -34,17 +34,6 @@ header:
     show_search: true
     highlight_active_link: true
 
-Site footer
-
-footer:
-  copyright:
-    notice: '© 2023 Yashwant Gadhave. This work is licensed under MIT'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-
 # Localization
 
 locale:
