@@ -187,8 +187,8 @@ sections:
           tag: '*'
         - name: Data Visualization
           tag: Data Visualization
-        - name: Full Stack
-          tag: Full Stack
+        - name: Full Stack Development
+          tag: Full Stack Development
         - name: Deep Learning
           tag: Deep Learning
         - name: Game Development
