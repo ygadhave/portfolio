@@ -2,7 +2,7 @@
 title: Smart Grocery Assistant - AI-Powered Pantry Management
 summary: Personal Full-Stack Project `Project_Link`
 tags:
-  - Full-Stack Development
+  - Full Stack Development
   - AI Integration
   - Data Visualization
 date: '2025-05-01T00:00:00Z'
