@@ -21,7 +21,7 @@ links:
     url: https://github.com/ygadhave/Evolution-of-Music-Analysis
   - icon: globe
     icon_pack: fas
-    url: https://your-deployed-link-here.com
+    url: https://drive.google.com/file/d/1-4McCY8KNU84csPnBtkg2u0lVDoLeiTC/view?usp=sharing
 
 url_code: ''
 url_pdf: ''
