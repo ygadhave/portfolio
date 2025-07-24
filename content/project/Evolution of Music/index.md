@@ -19,16 +19,10 @@ links:
   - icon: github
     icon_pack: fab
     url: https://github.com/ygadhave/Evolution-of-Music-Analysis
-  - icon: globe
+  - icon: image
     icon_pack: fas
     url: https://drive.google.com/file/d/1-4McCY8KNU84csPnBtkg2u0lVDoLeiTC/view?usp=sharing
 
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-slides: ""
 ---
 
 **Evolution of Music Analysis** is an interactive web application designed to visualize the evolution of audio trends and genre influences across a dataset of **15,000+ music tracks**.
