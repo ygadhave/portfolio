@@ -17,12 +17,12 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    url: https://github.com/your-username/smart-grocery-assistant
+    url: https://github.com/ygadhave/Smart-Grocery-Assistant
   - icon: globe
     icon_pack: fas
     url: https://smart-grocery-assistant-sigma.vercel.app
 
-url_code: 'https://github.com/your-username/smart-grocery-assistant'
+url_code: 'https://github.com/ygadhave/Smart-Grocery-Assistant'
 
 ---
 
