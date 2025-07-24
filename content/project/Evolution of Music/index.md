@@ -1,37 +1,44 @@
 ---
-title: Brick Buster - A Modern Twist to Classic Brick Breaker Game
-summary: Sophomore Year Personal Project `Game_Link`
+title: Evolution of Music Analysis – Interactive Data Visualization
+summary: A React + D3.js web application exploring 15K+ music tracks with dynamic charts and real-time insights.
 tags:
-  - Game Development
-date: '2016-04-27T00:00:00Z'
+  - Data Visualization
+  - Web Development
+  - React
+  - D3.js
+date: '2024-12-20T00:00:00Z'
 
-# Optional external URL for project (replaces project detail page).
-Game_Link: https://editor.p5js.org/ygadhave/full/1qujD2woA
+# Optional external URL for project
+Project_Link: https://github.com/ygadhave/Evolution-of-Music-Analysis
 
 image:
-  caption: Game development using javascript and CSS and other programming
+  caption: Interactive visualizations built with React and D3.js
   focal_point: Smart
 
 links:
   - icon: github
     icon_pack: fab
-    url: https://github.com/ygadhave/BrickBreakerClone
-  - icon: gamepad
+    url: https://github.com/ygadhave/Evolution-of-Music-Analysis
+  - icon: globe
     icon_pack: fas
-    url: https://editor.p5js.org/ygadhave/full/1qujD2woA
-    
+    url: https://your-deployed-link-here.com
+
 url_code: ''
-url_pdf: 'https://docs.google.com/document/d/1_N9VlVlaJ1lU_WMYALGjvmN_hZl10Vuu9FtMiq_Pzv0/edit?usp=sharing'
-url_slides: 'https://docs.google.com/presentation/d/19GDelYh5sou8lPkJDdZQUT0lu3vphVNO9lTduQvPdNA/edit?usp=sharing'
+url_pdf: ''
+url_slides: ''
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
 ---
 
-Brick Buster Clone is a captivating web-based project that showcases my proficiency in front-end web development and game design. Developed using JavaScript, CSS, and a mix of other programming languages, this game pays homage to the classic arcade experience while infusing it with modern design elements and interactive features. Players navigate through dynamic levels with increasing difficulty, controlling a paddle to bounce a ball and break bricks arranged in various formations. The game's responsive controls ensure smooth and precise paddle movement, while power-ups like multi-ball and extended paddle add excitement and strategic depth. With vibrant visuals, immersive audio effects, and seamless responsiveness across devices, Brick Buster offers an engaging and challenging experience for players of all skill levels. Furthermore, its optimization for mobile devices and cross-browser compatibility ensure accessibility and enjoyment across different platforms. Moving forward, potential enhancements include multiplayer modes, a level editor tool, social integration features, and continual refinement of visuals and effects. "Brick Buster" stands as a testament to my skills in web development, game design, and user experience optimization, combining nostalgia with innovation for an unforgettable gaming experience.
+**Evolution of Music Analysis** is an interactive web application designed to visualize the evolution of audio trends and genre influences across a dataset of **15,000+ music tracks**.
+
+Key highlights:
+- **React + D3.js:** Built reusable components and custom visualizations, including timelines, charts, and network graphs.  
+- **Data Processing:** Transformed and cleaned raw `.csv` datasets using Python to enable efficient data ingestion.  
+- **Real-Time Insights:** Implemented filters and interactions to analyze genre-specific trends and audio characteristics.  
+- **Performance Optimization:** Applied memoization, throttled rendering, and scalable data-binding to ensure smooth UX, even with thousands of DOM elements.  
+
+This project showcases expertise in **frontend engineering, data visualization, and interactive analytics**, blending technical performance with a visually engaging experience.
+
 
