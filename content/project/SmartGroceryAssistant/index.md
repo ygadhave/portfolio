@@ -8,7 +8,7 @@ tags:
 date: '2025-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-Project_Link: https://your-live-demo-link.com
+Project_Link: https://smart-grocery-assistant-sigma.vercel.app
 
 image:
   caption: Full-stack smart grocery management app using Next.js, Prisma, and AI
@@ -20,14 +20,10 @@ links:
     url: https://github.com/your-username/smart-grocery-assistant
   - icon: globe
     icon_pack: fas
-    url: https://your-live-demo-link.com
+    url: https://smart-grocery-assistant-sigma.vercel.app
 
 url_code: 'https://github.com/your-username/smart-grocery-assistant'
-url_pdf: ''
-url_slides: 'https://docs.google.com/presentation/d/your-slides-link/edit?usp=sharing'
-url_video: 'https://youtu.be/your-demo-video-link'
 
-slides: ""
 ---
 
 Smart Grocery Assistant is an intelligent pantry management web application designed to streamline household grocery tracking and reduce food waste. Built with **Next.js**, **TypeScript**, **Prisma**, and **PostgreSQL**, the platform offers a modern and responsive interface for users to manage pantry items, set expiry reminders, and generate optimized shopping lists.
